@@ -1,6 +1,4 @@
 # task4
-
-
 This project demonstrates the use of CSS viewport units, box model concepts, and font styling. The webpage contains an image section and a styled button, designed according to the assignment requirements.
 Files Included
 index.html – Main HTML file containing the webpage structure.
